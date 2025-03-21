@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@layer base {
+	p {
+		margin-top: 1rem;
+		margin-bottom: 1rem;
+	}
+
+	pre {
+		margin-top: 1rem;
+		margin-bottom: 1rem;
+		padding: 1rem;
+		overflow-x: auto;
+	}
+}
