@@ -6,6 +6,6 @@
 
 <Header />
 <main class="flex-1">
-	{@render children?.()}
+	{@render children()}
 </main>
 <Footer />
